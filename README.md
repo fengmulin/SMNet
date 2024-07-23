@@ -9,7 +9,7 @@ Real-Time Text Detection in Traffic, Industrial, and  Scenes with Similar Mask
 ## Environment
 The environment and usage are based on: [DBNet](https://github.com/MhLiao/DB)
 
-'conda create -n SM python==3.7
+'<conda create -n SM python==3.7
 conda activate SM
 
 
@@ -23,7 +23,7 @@ cd SMNet/
 
 echo $CUDA_HOME
 cd assets/ops/dcn/
-python setup.py build_ext --inplace'
+python setup.py build_ext --inplace>'
 
 
 ## Dataset
