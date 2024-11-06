@@ -18,7 +18,7 @@ pip install -r requirement.txt
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 
-git clone https://github.com/MhLiao/SMNet.git
+git clone https://github.com/fengmulin/SMNet.git
 cd SMNet/
 
 echo $CUDA_HOME
